@@ -1,0 +1,264 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sita universala din plastic pentru pisoare",
+            "price": "Cere oferta",
+            "src": "http://instaldiscount.ro/751-home_default/sita-universala-din-plastic-pentru-pisoare.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 2,
+            "name": "Sita din plastic cu odorizant",
+            "price": "Cere oferta",
+            "src":  "http://instaldiscount.ro/752-home_default/sita-din-plastic-cu-odorizant-pentru-pisoare.jpg",
+            "category": "Sanitare"
+        
+        },
+        {
+            "id": 3,
+            "name": "Rigola de dus din otel inox",
+            "price": "Cere oferta",
+            "src":  "http://instaldiscount.ro/787-home_default/rigola-de-du-din-oel-inox.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 4,
+            "name": "Baterie electronica lavoar SCHELL",
+            "price": 1222.12,
+            "src": "http://instaldiscount.ro/1880-home_default/baterie-electronica-lavoar-schell-modus-e-hd-m.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 5,
+            "name": "Baterie electronica lavoar SCHELL",
+            "price": 1116.21,
+            "src":  "http://instaldiscount.ro/1882-home_default/baterie-electronica-lavoar-schell-modus-e-hd-m.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 6,
+            "name": "Baterie cu montare in perete pentru dus",
+            "price": 1303.04,
+            "src":  "http://instaldiscount.ro/1890-home_default/baterie-cu-montare-in-perete-pentru-dus-schell-linus-d-sc-m.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 7,
+            "name": "Sifon pentru chiuveta simpla de bucatarie",
+            "price": "Cere oferta",
+            "src":  "http://instaldiscount.ro/996-home_default/sifon-pentru-chiuveta-simpla-de-bucatarie.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 8,
+            "name": "Sifon pentru chiuveta simpla cu conector",
+            "price": "Cere oferta",
+            "src":  "http://instaldiscount.ro/1000-home_default/sifon-pentru-chiuveta-simpla-de-bucatarie-cu-conector.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 9,
+            "name": "Sifon pentru cadita............",
+            "price": "Cere oferta",
+            "src": "http://instaldiscount.ro/1044-home_default/sifon-pentru-cadita-dus-cu-grilaj-o-115-mm.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 10,
+            "name": "Baterie monocomanda cada-dus",
+            "price": "Cere oferta",
+            "src":  "http://instaldiscount.ro/489-home_default/baterie-monocomanda-cada-dus-incastrata.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 11,
+            "name": "Robinet de spalare WC SHELL",
+            "price": 226.09,
+            "src":  "http://instaldiscount.ro/1866-home_default/robinet-de-spalare-wc-schellomat.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 12,
+            "name": "Placa de actiune WC SHELL",
+            "price": 218.96,
+            "src":  "http://instaldiscount.ro/1872-home_default/placa-de-actionare-wc-schell-linear-eco.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 13,
+            "name": "Bideu din portelan glazurat",
+            "price": 2159.85,
+            "src": "http://instaldiscount.ro/159-home_default/bideu-din-porelan-glazurat.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 14,
+            "name": "Modul counter cu orificiu pentru ventil..",
+            "price": 966.28,
+            "src":  "http://instaldiscount.ro/151-home_default/modul-counter-cu-orificiu-pentru-ventil-i-baterie.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 15,
+            "name": "Cada rectangulara KORAT 170x70",
+            "price": 568.81,
+            "src":  "http://instaldiscount.ro/1168-home_default/cada-rectangulara-korat-170x70.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 16,
+            "name": "Cadita din tabla emaliata 80x80x15",
+            "price": 178.49,
+            "src": "http://instaldiscount.ro/262-home_default/cadia-din-tabla-emailata-80-x-80-x15-cm.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 17,
+            "name": "Suport hartie igienica pentru baie",
+            "price": 214.20,
+            "src":  "http://instaldiscount.ro/170-home_default/suport-hartie-igienica.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 18,
+            "name": "Suport prosop cu montaj in perete",
+            "price": 299.88,
+            "src":  "http://instaldiscount.ro/164-home_default/suport-prosop-cu-montaj-pe-perete.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 19,
+            "name": "Lavoar 55CM PLAYA...........",
+            "price": 355.81,
+            "src": "http://instaldiscount.ro/1724-home_default/lavoar-55-cm-playa.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 20,
+            "name": "Lavoar LIBRA 80..................",
+            "price": 320.10,
+            "src":  "http://instaldiscount.ro/1507-home_default/lavoar-libra-80.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 21,
+            "name": "PISOAR P 101........................",
+            "price": 107.09,
+            "src":  "http://instaldiscount.ro/1260-home_default/pisoar-p-101.jpg",
+            "category": "Sanitare"
+        },
+        {
+            "id": 22,
+            "name": "Dispozitiv de activare Selenite WC",
+            "price": 123.75,
+            "src": "http://instaldiscount.ro/1102-home_default/dispozitiv-de-activare-selenite-pentru-sistem-simplu-de-tragere-a-apei-start-stop.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 23,
+            "name": "Dispozitiv de activare APLITE WC",
+            "price": 123.75,
+            "src": "http://instaldiscount.ro/1092-home_default/dispozitiv-de-activare-aplite-pentru-sistem-simplu-de-tragere-a-apei.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 24,
+            "name": "Racord flexibil 6/4'' x DN40",
+            "price": 5.94,
+            "src":  "http://instaldiscount.ro/204-home_default/racord-flexibil-64-x-dn40.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 25,
+            "name": "Racord flexibil WC 270.....",
+            "price": 29.74,
+            "src":  "http://instaldiscount.ro/196-home_default/racord-flexibil-wc-270.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 26,
+            "name": "Antiretur DN50...................",
+            "price": "Cere oferta",
+            "src": "http://instaldiscount.ro/1786-home_default/antiretur-dn75.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 27,
+            "name": "Teava cupru BARA 15x0.7 MM",
+            "price": 9.78,
+            "src": "http://instaldiscount.ro/844-home_default/teava-cupru-bara-15x07-mm.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 28,
+            "name": "Teava cupru BARA 18x0.7 MM",
+            "price": 12.07,
+            "src":  "http://instaldiscount.ro/845-home_default/teava-cupru-bara-18x07-mm.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 29,
+            "name": "COTALAMA 3/8'' FIFE.......",
+            "price": 4.41,
+            "src":  "http://instaldiscount.ro/840-home_default/cot-alama-38-fife.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 30,
+            "name": "COTALAMA 1/2'' FIFE......",
+            "price": 6.58,
+            "src": "http://instaldiscount.ro/841-home_default/cot-alama-12-fife.jpg",
+            "category": "Instalatii" 
+        },
+        {
+            "id": 31,
+            "name": "Centrala termica BOSCH 7000W",
+            "price": 6842.28,
+            "src":  "http://instaldiscount.ro/1621-home_default/centrala-termica-bosch-condens-7000w-zbr35-3a.jpg",
+            "category": "Termice"
+        },
+        {
+            "id": 32,
+            "name": "Centrala termica BOSCH 7000W",
+            "price": 7199.50,
+            "src": "http://instaldiscount.ro/1621-home_default/centrala-termica-bosch-condens-7000w-zbr35-3a.jpg",
+            "category": "Termice"
+        },
+        {
+            "id": 33,
+            "name": "Panou solar BOSCH 7000TF-FT226-2V",
+            "price": 2765.55,
+            "src": "http://instaldiscount.ro/1550-home_default/panou-solar-bosch-7000-tf-ft226-2v.jpg",
+            "category": "Termice"
+        },
+        {
+            "id": 34,
+            "name": "Panou solar BOSCH 7000TV-VK140-1",
+            "price": 2576.34,
+            "src":  "http://instaldiscount.ro/1549-home_default/panou-solar-bosch-7000-tv-vk140-1.jpg",
+            "category": "Termice"
+        },
+        {
+            "id": 35,
+            "name": "Centrala termica BOSCH 7000W",
+            "price": 7199.50,
+            "src": "http://instaldiscount.ro/1621-home_default/centrala-termica-bosch-condens-7000w-zbr35-3a.jpg",
+            "category": "Termice"
+        },
+        {
+            "id": 36,
+            "name": "Pompa circulatie pentru apa potabila",
+            "price": 356.99,
+            "src":  "http://instaldiscount.ro/680-home_default/pompa-circulaie-pentru-apa-potabila.jpg",
+            "category": "Instalatii"
+        },
+        {
+            "id": 37,
+            "name": "Centrala termica BOSCH 7000W",
+            "price": 285.59,
+            "src": "http://instaldiscount.ro/660-home_default/pompa-circulaie-pentru-apa-potabila-25-40-180.jpg",
+            "category": "Termice"
+        }
+    ]
+}
